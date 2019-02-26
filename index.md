@@ -7,5 +7,5 @@
 <br><br>
 If your browser has created a tab, make sure you DO NOT close the whole browser, just this tab.  See below for instructions on how to close this tab and get back to the main study without closing the whole browser:
 <br><br>
-![Alt text](relative/path/to/instructions.png?raw=true "Title")
+![Instructions](https://github.com/CooperUF/StaticPages/blob/master/instructions.png)
 
